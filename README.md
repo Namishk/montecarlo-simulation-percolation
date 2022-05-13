@@ -7,7 +7,6 @@ Given a composite systems comprised of randomly distributed insulating and metal
 ## Modelling
 To model this system we use N x N grid of sites each site either open or close. We connect open sites to form a chain and if top and botton rows are connected then we can say that the system peprcolates.
 
-<br><br>
 
 ![alt text](percolation%20example.png)
 
