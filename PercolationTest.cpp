@@ -15,7 +15,8 @@ using namespace std;
 class PercolationTest
 {
 private:
-    int n = 10;
+    int n; 
+    cin>>n;
     float prob;
     percolation p = percolation(n);
 public:
